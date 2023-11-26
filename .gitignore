@@ -1,2 +1,4 @@
 /node_modules
+/testMp3Segs
+testRequest.js
 .env
